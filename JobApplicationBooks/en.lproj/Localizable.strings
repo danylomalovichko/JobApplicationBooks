@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  JobApplicationBooks
+
+  Created by Danylo Malovichko on 09.07.2023.
+  
+*/
+
+"AuthorFormat %@" = "Author: %@";
+"PublisherFormat %@" = "Publisher: %@";
+"Rank %lld" = "Rank: %lld";
+"Links" = "Links";
